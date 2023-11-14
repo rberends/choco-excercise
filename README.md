@@ -1,5 +1,5 @@
 
-# choco-excercise
+# Chocoxcercise
 A few potential excercises for the enige echte.
 
 
