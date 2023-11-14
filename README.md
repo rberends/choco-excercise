@@ -28,9 +28,9 @@ Please put all numbers into an **array**, console.log() the resulting sum of all
 Please put all the previous numbers into an **array** and substract them, in the **reverse order** of what they appear as in the array, console.log() the result.
 
 
-## 2: Multiply some numbers
+## 3: Multiply some of the numbers
 
-Please put all the previous numbers into an into a **List** and add each even number. Multiply the result by the uneven numbers. Do this in the order of the array. console.log() the sum of all elements in the array.
+Please put all the previous numbers into an into a **List** and add each even number. Multiply the consecutive result by the uneven numbers. Do this in the order of the array. console.log() the sum of all elements in the array.
 
 ## 3: Find Rembrandt
 
