@@ -23,7 +23,7 @@ I have the following numbers:
 Please put all numbers into an **array** and add them to each other, console.log() the resulting sum of all elements in the array.
 
 
-## 1: Substract numbers
+## 2: Substract numbers
 
 I have the following numbers:
 
