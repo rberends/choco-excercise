@@ -9,6 +9,14 @@ A few potential exercises for the enige echte. Meant to be done in Javascript - 
 
 Solutions can be found as seperate files in this repo.
 
+I would recommend doing this on a laptop/desktop. You can use the following websites to practice:
+
+https://jsfiddle.net/
+
+https://codepen.io/pen/
+
+
+
 ## 1: Add numbers
 
 I have the following numbers:
