@@ -1,9 +1,52 @@
 
-# Chocoxercise
+# Echtercise
 A few potential excercises for the enige echte.
 
+## 1: Add numbers
 
-## 1: Find Rembrandt
+I have the following numbers:
+
+2
+3
+890
+234
+111
+1222
+
+
+Please put all numbers into an **array** and add them to each other, console.log() the resulting sum of all elements in the array.
+
+
+## 1: Substract numbers
+
+I have the following numbers:
+
+2
+3
+890
+234
+111
+1222
+
+
+Please put all numbers into an **array** and substract them from each other, in the **reverse order** of what they appear as in the array, console.log() the result.
+
+
+## 2: Multiply some numbers
+
+I have the following numbers:
+
+2
+3
+890
+234
+111
+1222
+
+
+Please put all numbers into an **array** and add each even number. Multiply the result by the uneven numbers. Do this in the order of the array. console.log() the sum of all elements in the array.
+
+## 3: Find Rembrandt
 
 Here's a JSON list of paintings titles and their artists. Unfortunately, the one making the list isn't very good at using a keyboard, and has made some mistakes writing the artist's names.
 
@@ -79,7 +122,7 @@ Some useful tips:
 </ol> 
 
 
-## 2: Recipe page
+## 4: Recipe page
 
 
 
