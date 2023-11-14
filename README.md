@@ -1,6 +1,6 @@
 
 # Echtercise
-A few potential excercises for the enige echte.
+A few potential excercises for the enige echte. Meant to be done in Javascript.
 
 ## 1: Add numbers
 
