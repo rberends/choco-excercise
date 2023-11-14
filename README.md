@@ -10,11 +10,14 @@ Your goal is to find all paintings made by rembrandt and put them all in one lis
 
 Some useful tips:
 
-You can loop through the list
 
-String comparisons can be done with and without capatilziation.
+<ol>
+  <li>You can loop through the data. Maybe a for loop of a specific kind?</li>
+  <li>String comparisons can be done with and without capatilziation.</li>
+  <li>You could look into a percentage match of the name.</li>
+</ol> 
 
-You could look into a percentage match
+
 
 ## 2: Recipe page
 
