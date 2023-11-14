@@ -34,7 +34,7 @@ Please put all the previous numbers into an **array** and substract them, in the
 
 Please put all the previous numbers into an into a **List** and add each even number. Multiply the consecutive result by the uneven numbers. Do this in the order of the list. console.log() the sum of all elements in the array.
 
-## 3: Find Rembrandt
+## 4: Find Rembrandt
 
 Here's a JSON list of paintings titles and their artists. Unfortunately, the one making the list isn't very good at using a keyboard, and has made some mistakes writing the artist's names.
 
