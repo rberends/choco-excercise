@@ -30,7 +30,7 @@ Please put all the previous numbers into an **array** and substract them, in the
 
 ## 3: Multiply some of the numbers
 
-Please put all the previous numbers into an into a **List** and add each even number. Multiply the consecutive result by the uneven numbers. Do this in the order of the array. console.log() the sum of all elements in the array.
+Please put all the previous numbers into an into a **List** and add each even number. Multiply the consecutive result by the uneven numbers. Do this in the order of the list. console.log() the sum of all elements in the array.
 
 ## 3: Find Rembrandt
 
