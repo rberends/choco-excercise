@@ -6,7 +6,7 @@ A few potential excercises for the enige echte.
 
 Here's a JSON list of paintings, and their artists. Unfortunately, the one making the list isn't very good at using a keyboard, and has made some mistakes writing the artist's names.
 
-Your goal is to find all paintings made by rembrandt and put them all in one list, which will be printed using console.log into the console.
+Your goal is to find all paintings made by Rembrandt and put them all in one list, which will be printed using console.log into the console.
 
 Some useful tips:
 
