@@ -2,6 +2,8 @@
 # Echtercise
 A few potential excercises for the enige echte. Meant to be done in Javascript - but any language is ok :)
 
+Solutions can be found as seperate files in this repo.
+
 ## 1: Add numbers
 
 I have the following numbers:
