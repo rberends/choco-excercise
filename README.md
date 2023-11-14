@@ -1,5 +1,10 @@
 
+
 # Echtercise
+
+![image]([files/Users/jzhang/Desktop/Isolated.pn](https://github.com/rberends/echtercise/blob/1f3f5bd6d58acd746cff9b361c4743937c5d9db9/Untitled-1.png)
+
+
 A few potential exercises for the enige echte. Meant to be done in Javascript - but any language is ok :)
 
 Solutions can be found as seperate files in this repo.
