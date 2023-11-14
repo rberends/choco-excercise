@@ -11,7 +11,9 @@ Your goal is to find all paintings made by rembrandt and put them all in one lis
 Some useful tips:
 
 You can loop through the list
+
 String comparisons can be done with and without capatilziation.
+
 You could look into a percentage match
 
 ## 2: Recipe page
