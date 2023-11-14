@@ -20,7 +20,7 @@ I have the following numbers:
 
 
 
-Please put all numbers into an **array** and add them to each other, console.log() the resulting sum of all elements in the array.
+Please put all numbers into an **array**, console.log() the resulting sum of all elements in the array.
 
 
 ## 2: Substract numbers
@@ -40,7 +40,7 @@ I have the following numbers:
 1222
 
 
-Please put all numbers into an **array** and substract them from each other, in the **reverse order** of what they appear as in the array, console.log() the result.
+Please put all numbers into an **array** and substract them, in the **reverse order** of what they appear as in the array, console.log() the result.
 
 
 ## 2: Multiply some numbers
