@@ -7,11 +7,17 @@ A few potential excercises for the enige echte.
 I have the following numbers:
 
 2
+
 3
+
 890
+
 234
+
 111
+
 1222
+
 
 
 Please put all numbers into an **array** and add them to each other, console.log() the resulting sum of all elements in the array.
@@ -22,10 +28,15 @@ Please put all numbers into an **array** and add them to each other, console.log
 I have the following numbers:
 
 2
+
 3
+
 890
+
 234
+
 111
+
 1222
 
 
