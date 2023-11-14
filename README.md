@@ -2,7 +2,7 @@
 
 # Echtercise
 
-![image](https://github.com/rberends/echtercise/blob/1f3f5bd6d58acd746cff9b361c4743937c5d9db9/Untitled-1.png)
+![image](https://github.com/rberends/echtercise/blob/00a8e4f9f8f4809a226343dd554c146a8d41a3b8/choco_strong.png)
 
 
 A few potential exercises for the enige echte. Meant to be done in Javascript - but any language is ok :)
